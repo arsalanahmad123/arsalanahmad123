@@ -1,6 +1,5 @@
+![Arsalan Ahmad](https://github.com/arsalanahmad123/arsalanahmad123/assets/102609746/92f9dba0-5263-4e73-932f-e88cfde071e1)
 # Hi there, I'm Arsal! 👋
-
-![Profile Banner](https://via.placeholder.com/800x200) <!-- Replace with your own banner image URL -->
 
 ## 🌟 About Me
 
