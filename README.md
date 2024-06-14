@@ -4,7 +4,7 @@
 
 ## 🌟 About Me
 
-I'm a passionate Full Stack Developer with a keen interest in modern web technologies and a hobby of reading history books and novels. My goal is to create helpful and user-friendly applications while continuously learning and growing in the tech world.
+I'm a passionate Full Stack Developer with a keen interest in modern web technologies and a hobby of reading history books. My goal is to create helpful,optimal and user-friendly applications while continuously learning and growing in the tech world.
 
 ![Profile Picture](https://via.placeholder.com/150) <!-- Replace with your own profile picture URL -->
 
@@ -21,7 +21,7 @@ I'm a passionate Full Stack Developer with a keen interest in modern web technol
 
 ## 📈 GitHub Stats
 
-![Arsal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) <!-- Replace with your GitHub username -->
+![Arsal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsalanahmad123&show_icons=true&theme=radical) <!-- Replace with your GitHub username -->
 
 ## 💼 Projects
 
