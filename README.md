@@ -5,8 +5,6 @@
 
 I'm a passionate Full Stack Developer with a keen interest in modern web technologies and a hobby of reading history books. My goal is to create helpful,optimal and user-friendly applications while continuously learning and growing in the tech world.
 
-![Profile Picture](https://via.placeholder.com/150) <!-- Replace with your own profile picture URL -->
-
 ## 🛠 Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
