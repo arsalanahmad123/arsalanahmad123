@@ -42,7 +42,7 @@ I'm a passionate Full Stack Developer with a keen interest in modern web technol
 ## 📫 How to Reach Me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thepeacedevelopers@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/arsalan-ahmad-934247255)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arsalan-ahmad-934247255)
 
 ## 💬 Let's Connect
 
