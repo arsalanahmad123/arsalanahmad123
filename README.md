@@ -1,4 +1,5 @@
-![Arsalan Ahmad](https://github.com/arsalanahmad123/arsalanahmad123/assets/102609746/92f9dba0-5263-4e73-932f-e88cfde071e1)
+![linked-in-banner](https://github.com/arsalanahmad123/arsalanahmad123/assets/102609746/adb747d3-2854-4c3a-87e9-49b65dec712d)
+
 # Hi there, I'm Arsal! 👋
 
 ## 🌟 About Me
