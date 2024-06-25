@@ -22,17 +22,16 @@ I'm a passionate Full Stack Developer with a keen interest in modern web technol
 
 ## 💼 Projects
 
-### Project 1: Awesome Web App
-![Project Screenshot](https://via.placeholder.com/400x200) <!-- Replace with your project screenshot -->
-- **Description**: A web application built with React and Next.js that allows users to...
-- **Technologies**: React, Next.js, TailwindCSS, Node.js
-- [View Project](https://github.com/yourusername/yourproject)
+### Project 1: RealTime Fully Fledged and Features Ritched CHAT APPLICATION
+![chat-application](https://github.com/arsalanahmad123/arsalanahmad123/assets/102609746/0d3aadb2-5822-443f-9418-f0edb6a07ef5)
+- **Description**: A web application built with React and React.js that allows users to chat online 
+- **Technologies**: React, TailwindCSS,Daisy UI ,Node.js,Express,MongodDB, Socket.io
 
-### Project 2: Innovative Platform
-![Project Screenshot](https://via.placeholder.com/400x200) <!-- Replace with your project screenshot -->
-- **Description**: A platform developed using Ruby on Rails to...
-- **Technologies**: Ruby on Rails, Bootstrap, PostgreSQL
-- [View Project](https://github.com/yourusername/yourproject)
+### Project 2: Amazoon Client Profit Handling System
+![amazoon-frontpage](https://github.com/arsalanahmad123/arsalanahmad123/assets/102609746/02e24ea2-b74d-48e3-a4a3-41657383eb11)
+
+- **Description**: A platform developed for amazon client for handling its profit and investment for the stores for its clients
+- **Technologies**: React,Tailwindcss,Node.js,Express,Mongodb
 
 ## 📚 What I'm Reading
 
@@ -48,5 +47,4 @@ I'm a passionate Full Stack Developer with a keen interest in modern web technol
 
 Feel free to reach out to me for collaborations, discussions, or just to say hi! I'm always open to connecting with fellow developers and tech enthusiasts.
 
-![Footer Image](https://via.placeholder.com/800x100) <!-- Replace with your own footer image if desired -->
 
