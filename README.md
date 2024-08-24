@@ -1,4 +1,4 @@
-![linked-in-banner](https://github.com/arsalanahmad123/arsalanahmad123/assets/102609746/adb747d3-2854-4c3a-87e9-49b65dec712d)
+![linkedinBannernew](https://github.com/user-attachments/assets/9dcd29b0-ec72-4195-89f6-5036f00b9caf)
 
 # Hi there, I'm Arsal! 👋
 
