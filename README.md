@@ -23,6 +23,12 @@ I'm a passionate Full Stack Developer with a keen interest in modern web technol
 
 ## 💼 Projects
 
+### Project 2: Ikram Forces Academy Student Portal 
+![ikramforcesacademy](https://github.com/user-attachments/assets/2bcc2ea3-fbae-4da9-bd1f-ced74c106d5a)
+- **Description**: A web application built with Next.js that allows students to take online exams, see their results , see previous taken exames etc 
+- **Technologies**: React,Nextjs, FramerMotion, Clerkjs ,TailwindCSS,MongodDB
+
+
 ### Project 1: RealTime Fully Fledged and Features Ritched CHAT APPLICATION
 ![chat-application](https://github.com/arsalanahmad123/arsalanahmad123/assets/102609746/0d3aadb2-5822-443f-9418-f0edb6a07ef5)
 - **Description**: A web application built with React and React.js that allows users to chat online 
