@@ -1,5 +1,3 @@
-![linkedinBannernew](https://github.com/user-attachments/assets/9dcd29b0-ec72-4195-89f6-5036f00b9caf)
-
 # Hi there, I'm Arsal! 👋
 
 ## 🌟 About Me
