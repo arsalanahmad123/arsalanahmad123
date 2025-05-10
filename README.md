@@ -22,7 +22,7 @@ I'm a passionate Full Stack Developer with a keen interest in modern web technol
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Graphql](https://img.shields.io/badge/Graphql?style=flat-square&logo=graphql&logoColor=white)
+![Graphql](https://img.shields.io/badge/Graphql?style=flat-square&logo=apollographql&logoColor=white)
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
