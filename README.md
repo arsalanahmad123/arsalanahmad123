@@ -22,6 +22,7 @@ I'm a passionate Full Stack Developer with a keen interest in modern web technol
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Graphql](https://img.shields.io/badge/Graphql?style=flat-square&logo=fastapi&logoColor=white)
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -46,10 +47,6 @@ I'm a passionate Full Stack Developer with a keen interest in modern web technol
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-## 📈 GitHub Stats
-
-![Arsal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsalanahmad123&show_icons=true&theme=radical)
 
 ## 💼 Some of the client Projects
 
