@@ -48,22 +48,6 @@ I'm a passionate Full Stack Developer with a keen interest in modern web technol
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-## 💼 Some of the client Projects
-
-### **Project 1: Ikram Forces Academy Student Portal**
-![ikramforcesacademy](https://github.com/user-attachments/assets/2bcc2ea3-fbae-4da9-bd1f-ced74c106d5a)
-- **Description**: A web application built with Next.js that allows students to take online exams, see their results, and view previous exams.
-- **Technologies**: React, Next.js, Framer Motion, Clerk.js, TailwindCSS, MongoDB
-
-### **Project 2: Real-Time Fully Fledged Chat Application**
-![chat-application](https://github.com/arsalanahmad123/arsalanahmad123/assets/102609746/0d3aadb2-5822-443f-9418-f0edb6a07ef5)
-- **Description**: A web application built with React and Node.js that allows users to chat online in real-time.
-- **Technologies**: React, TailwindCSS, DaisyUI, Node.js, Express, MongoDB, Socket.io
-
-### **Project 3: Amazoon Client Profit Handling System**
-![amazoon-frontpage](https://github.com/arsalanahmad123/arsalanahmad123/assets/102609746/02e24ea2-b74d-48e3-a4a3-41657383eb11)
-- **Description**: A platform developed for Amazon clients to handle profits and investments for their stores.
-- **Technologies**: React, TailwindCSS, Node.js, Express, MongoDB
 
 ## 📫 How to Reach Me
 
